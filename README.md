@@ -1,0 +1,1 @@
+## Estudo de Design Patterns com Typescript
